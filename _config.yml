@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Bo-Cheng Chu"
 title_separator          : "-"
 name                     : &name "Bo-Cheng Chu"
-description              : &description "Master in Computer Science @ Purdue University"
+description              : &description "Master student in Computer Science @ Purdue University"
 url                      : https://chadchu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chadchu/chadchu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Bo-Cheng Chu"
   avatar           : "profile.jpg"
-  bio              : "Master in Computer Science @ Purdue University"
+  bio              : "Master student in Computer Science @ Purdue University"
   location         : "West Lafayette, IN"
   employer         :
   pubmed           : 
